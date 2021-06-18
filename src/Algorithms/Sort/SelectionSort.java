@@ -1,6 +1,4 @@
-package Algorithms.SortingAlgorithms;
-
-import Algorithms.SortingAlgorithms.SortingAlgorithm;
+package Algorithms.Sort;
 
 public class SelectionSort<T extends Comparable<T>> extends SortingAlgorithm<T> {
     @Override
