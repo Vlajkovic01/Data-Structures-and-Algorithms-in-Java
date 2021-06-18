@@ -7,7 +7,7 @@
 - [Stack and Queue](src/DataStructures/StackAndQueue)
 - [Tree](src/DataStructures/Tree)
 ---
-### [Sorting Algorthms:](src/Algorithms/Sort)
+### [Sorting Algorithms:](src/Algorithms/Sort)
 - [BubbleSort](src/Algorithms/Sort/BubbleSort.java)
 - [InsertionSort](src/Algorithms/Sort/InsertionSort.java)
 - [MergeSort](src/Algorithms/Sort/MergeSort.java)
