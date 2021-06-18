@@ -11,5 +11,5 @@
 - [BubbleSort](src/SortingAlgorithms/BubbleSort.java)
 - [InsertionSort](src/SortingAlgorithms/InsertionSort.java)
 - [MergeSort](src/SortingAlgorithms/MergeSort.java)
-- [QuickSort](src/SortingAlgorithms/QucikSort.java)
+- [QuickSort](src/SortingAlgorithms/QuickSort.java)
 - [SelectionSort](src/SortingAlgorithms/SelectionSort.java)
