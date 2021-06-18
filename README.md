@@ -1,7 +1,7 @@
 # *Algorithms and Data Structures in Java*
 
 ### Data structures for:\
-- [ArrayList] (src/DataStructures/ArrayList)
+- [ArrayList] (https://github.com/Vlajkovic01/Algorithms-and-Data-Structures-in-Java/tree/main/src/DataStructures/ArrayList)
 - [LinkedList] (src/DataStructures/LinkedList)
 - [HashMap] (src/DataStructures/HashMap)
 - [Stack and Queue] (src/DataStructures/StackAndQueue)
