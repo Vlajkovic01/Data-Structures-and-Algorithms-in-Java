@@ -6,9 +6,7 @@
 - [HashMap](src/DataStructures/HashMap)
 - [Stack and Queue](src/DataStructures/StackAndQueue)
 - [Tree](src/DataStructures/Tree)
-```diff
-- ### [Sorting Algorthms for:](src/SortingAlgorithms)
-```
+ ### [Sorting Algorthms for:](src/SortingAlgorithms)
 - [BubbleSort](src/SortingAlgorithms/BubbleSort.java)
 - [InsertionSort](src/SortingAlgorithms/InsertionSort.java)
 - [MergeSort](src/SortingAlgorithms/MergeSort.java)
