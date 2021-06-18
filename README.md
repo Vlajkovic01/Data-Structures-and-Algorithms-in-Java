@@ -1,4 +1,4 @@
-# ***Algorithms and Data Structures in Java***
+# ***Data Structures and Algorithms in Java***
 
 ### [Data structures:](src/DataStructures)
 - [ArrayList](src/DataStructures/ArrayList)
