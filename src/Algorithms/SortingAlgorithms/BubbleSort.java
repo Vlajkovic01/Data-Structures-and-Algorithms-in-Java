@@ -1,6 +1,6 @@
-package SortingAlgorithms;
+package Algorithms.SortingAlgorithms;
 
-public class BubbleSort<T extends Comparable<T>> extends SortingAlgorithm<T>{
+public class BubbleSort<T extends Comparable<T>> extends SortingAlgorithm<T> {
     @Override
     public void sort(T[] array) {
         int size = array.length;

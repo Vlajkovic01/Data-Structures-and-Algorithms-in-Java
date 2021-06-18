@@ -1,8 +1,9 @@
-package SortingAlgorithms;
+package Algorithms.SortingAlgorithms;
 
+import Algorithms.SortingAlgorithms.SortingAlgorithm;
 import DataStructures.ArrayList.ArrayList; //this is mine array, change to your array list or java array
 
-public class MergeSort<T extends Comparable<T>> extends SortingAlgorithm<T>{
+public class MergeSort<T extends Comparable<T>> extends SortingAlgorithm<T> {
     @Override
     public void sort(T[] array) {
         sort(array, 0, array.length - 1);

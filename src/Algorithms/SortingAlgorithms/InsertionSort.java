@@ -1,6 +1,6 @@
-package SortingAlgorithms;
+package Algorithms.SortingAlgorithms;
 
-public class InsertionSort<T extends Comparable<T>> extends SortingAlgorithm<T>{
+public class InsertionSort<T extends Comparable<T>> extends SortingAlgorithm<T> {
     @Override
     public void sort(T[] array) {
         int size = array.length;
