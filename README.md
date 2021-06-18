@@ -11,4 +11,4 @@
 -InsertionSort\
 -MergeSort\
 -QuickSort\
--SelectionSort\
+-SelectionSort
