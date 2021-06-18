@@ -1,4 +1,6 @@
-package Algorithms.Sort;
+package Algorithms.Sort.QuickSort;
+
+import Algorithms.Sort.SortingAlgorithm;
 
 import java.util.Random;
 

@@ -1,4 +1,6 @@
-package Algorithms.Sort;
+package Algorithms.Sort.BubbleSort;
+
+import Algorithms.Sort.SortingAlgorithm;
 
 public class BubbleSort<T extends Comparable<T>> extends SortingAlgorithm<T> {
     @Override

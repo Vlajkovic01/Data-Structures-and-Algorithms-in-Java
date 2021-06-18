@@ -1,5 +1,11 @@
 package Algorithms.Sort;
 
+import Algorithms.Sort.BubbleSort.BubbleSort;
+import Algorithms.Sort.InsertionSort.InsertionSort;
+import Algorithms.Sort.MergeSort.MergeSort;
+import Algorithms.Sort.QuickSort.QuickSort;
+import Algorithms.Sort.SelectionSort.SelectionSort;
+
 import java.util.Random;
 
 public class Program {
