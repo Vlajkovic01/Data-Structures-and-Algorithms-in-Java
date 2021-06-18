@@ -1,12 +1,12 @@
-# Algorithms and Data Structures in Java\
+# *Algorithms and Data Structures in Java*
 
-# Data structures for:\
+**Data structures for:**
 -ArrayList\
 -LinkedList\
 -HashMap\
 -Stack and Queue\
 -Tree\
-# Sorting Algorthms for:\
+**Sorting Algorthms for:**
 -BubbleSort\
 -InsertionSort\
 -MergeSort\
