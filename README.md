@@ -7,18 +7,11 @@
 - [Stack and Queue](src/DataStructures/StackAndQueue)
 - [Tree](src/DataStructures/Tree)
 ---
-<<<<<<< HEAD
-### [Sorting Algorthms:](src/Algorithms)
-- [BubbleSort](src/Algorithms/BubbleSort.java)
-- [InsertionSort](src/Algorithms/InsertionSort.java)
-- [MergeSort](src/Algorithms/MergeSort.java)
-- [QuickSort](src/Algorithms/QucikSort.java)
-- [SelectionSort](src/Algorithms/SelectionSort.java)
-=======
-### [Sorting Algorthms:](src/SortingAlgorithms)
-- [BubbleSort](src/SortingAlgorithms/BubbleSort.java)
-- [InsertionSort](src/SortingAlgorithms/InsertionSort.java)
-- [MergeSort](src/SortingAlgorithms/MergeSort.java)
-- [QuickSort](src/SortingAlgorithms/QuickSort.java)
-- [SelectionSort](src/SortingAlgorithms/SelectionSort.java)
->>>>>>> 38a41c9793da02f7ea8194518ba342065ec515c0
+### [Sorting Algorthms:](src/Algorithms/Sort)
+- [BubbleSort](src/Algorithms/Sort/BubbleSort.java)
+- [InsertionSort](src/Algorithms/Sort/InsertionSort.java)
+- [MergeSort](src/Algorithms/Sort/MergeSort.java)
+- [QuickSort](src/Algorithms/Sort/QucikSort.java)
+- [SelectionSort](src/Algorithms/Sort/SelectionSort.java)
+### [Search Algorithms:](src/Algorithms/Search)
+- [BinarySearch](src/Algorithms/Search/BinarySearch)
