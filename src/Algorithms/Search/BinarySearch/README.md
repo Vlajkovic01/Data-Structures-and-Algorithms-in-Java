@@ -9,4 +9,4 @@ Binary Search
 
 ## Results 📊
 
-<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/search.gif" align=center>
+<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/BinarySearch.gif" align=center>
