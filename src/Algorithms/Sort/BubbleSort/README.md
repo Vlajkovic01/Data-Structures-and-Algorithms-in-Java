@@ -8,4 +8,4 @@ Bubble Sort
 
 ## Results 📊
 
-<img src="others/BubbleSort.gif" align=center>
+<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/BubbleSort.gif" align=center>
