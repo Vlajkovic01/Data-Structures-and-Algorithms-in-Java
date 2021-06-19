@@ -8,4 +8,4 @@ Linear Search
 
 ## Results 📊
 
-<img src="others/LinearSearch.gif" align=center>
+<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/LinearSearch.gif" align=center>
