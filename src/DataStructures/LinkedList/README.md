@@ -6,7 +6,7 @@ Linked List
 
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/LinkedList.png" align=center>
 
-= In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+- In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
 
 ## Results 📊
 
