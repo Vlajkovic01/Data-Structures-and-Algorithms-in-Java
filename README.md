@@ -1,23 +1,23 @@
 # ***Data Structures and Algorithms in Java***
 
 ### [Data structures:](src/DataStructures)
-- [ArrayList](src/DataStructures/ArrayList)
-- [LinkedList](src/DataStructures/LinkedList)
-- [HashMap](src/DataStructures/HashMap)
+- [Array List](src/DataStructures/ArrayList)
+- [Linked List](src/DataStructures/LinkedList)
+- [Hash Map](src/DataStructures/HashMap)
 - [Stack and Queue](src/DataStructures/StackAndQueue)
-- [GeneralTree](src/DataStructures/GeneralTree)
-- [BinaryTree](src/DataStructures/BinaryTree) soon...
+- [General Tree](src/DataStructures/GeneralTree)
+- [Binary Tree](src/DataStructures/BinaryTree) soon...
 ---
 ### [Sorting Algorithms:](src/Algorithms/Sort)
-- [BubbleSort](src/Algorithms/Sort/BubbleSort)
-- [InsertionSort](src/Algorithms/Sort/InsertionSort)
-- [MergeSort](src/Algorithms/Sort/MergeSort)
-- [QuickSort](src/Algorithms/Sort/QuickSort)
-- [SelectionSort](src/Algorithms/Sort/SelectionSort)
-- [HeapSort](src/Algorithms/Sort/HeapSort) soon...
+- [Bubble Sort](src/Algorithms/Sort/BubbleSort)
+- [Insertion Sort](src/Algorithms/Sort/InsertionSort)
+- [Merge Sort](src/Algorithms/Sort/MergeSort)
+- [Quick Sort](src/Algorithms/Sort/QuickSort)
+- [Selection Sort](src/Algorithms/Sort/SelectionSort)
+- [Heap Sort](src/Algorithms/Sort/HeapSort) soon...
 ---
 ### [Search Algorithms:](src/Algorithms/Search)
-- [BinarySearch](src/Algorithms/Search/BinarySearch)
-- [LinearSearch](src/Algorithms/Search/LinearSearch)
-- [Depth-FirstSearch](src/Algorithms/Search/DepthFirstSearch) soon...
-- [Breadth-FirstSearch](src/Algorithms/Search/BreadthFirstSearch) soon...
+- [Binary Search](src/Algorithms/Search/BinarySearch)
+- [Linear Search](src/Algorithms/Search/LinearSearch)
+- [Depth-First Search](src/Algorithms/Search/DepthFirstSearch) soon...
+- [Breadth-First Search](src/Algorithms/Search/BreadthFirstSearch) soon...
