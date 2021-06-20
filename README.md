@@ -6,10 +6,7 @@
 - [HashMap](src/DataStructures/HashMap)
 - [Stack and Queue](src/DataStructures/StackAndQueue)
 - [GeneralTree](src/DataStructures/GeneralTree)
-<<<<<<< HEAD
-=======
 - [BinaryTree](src/DataStructures/BinaryTree) soon...
->>>>>>> 6a7f7344650ed0ff37c1a35ed06a53bc2a90270c
 ---
 ### [Sorting Algorithms:](src/Algorithms/Sort)
 - [BubbleSort](src/Algorithms/Sort/BubbleSort)
@@ -18,6 +15,7 @@
 - [QuickSort](src/Algorithms/Sort/QuickSort)
 - [SelectionSort](src/Algorithms/Sort/SelectionSort)
 - [HeapSort](src/Algorithms/Sort/HeapSort) soon...
+---
 ### [Search Algorithms:](src/Algorithms/Search)
 - [BinarySearch](src/Algorithms/Search/BinarySearch)
 - [LinearSearch](src/Algorithms/Search/LinearSearch)
