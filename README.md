@@ -5,7 +5,7 @@
 - [LinkedList](src/DataStructures/LinkedList)
 - [HashMap](src/DataStructures/HashMap)
 - [Stack and Queue](src/DataStructures/StackAndQueue)
-- [GeneralTree](src/DataStructures/Tree)
+- [GeneralTree](src/DataStructures/GeneralTree)
 ---
 ### [Sorting Algorithms:](src/Algorithms/Sort)
 - [BubbleSort](src/Algorithms/Sort/BubbleSort)

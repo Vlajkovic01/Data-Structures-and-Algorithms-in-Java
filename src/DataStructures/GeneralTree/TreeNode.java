@@ -1,4 +1,4 @@
-package DataStructures.Tree;
+package DataStructures.GeneralTree;
 
 import DataStructures.ArrayList.ArrayList; //My Array, use your or Java Array
 
