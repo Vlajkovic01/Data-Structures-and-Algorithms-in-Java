@@ -17,16 +17,16 @@ Stack and Queue
 
 ## Results 📊
 
-Stack Push
+Stack Push\
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/StackPush.gif" align=center>
 
-Stack Pop
+Stack Pop\
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/StackPop.gif" align=center>
 
-Queue Add
+Queue Add\
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/QueueAdd.gif" align=center>
 
-Queue Remove
+Queue Remove\
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/QueueRemove.gif" align=center>
 
 **Pseudocode**
