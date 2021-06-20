@@ -5,7 +5,7 @@ General Tree
 
 -In the data structure, General tree is a tree in which each node can have either zero or many child nodes. It can not be empty. In general tree, there is no limitation on the degree of a node. The topmost node of a general tree is called the root node. There are many subtrees in a general tree. The subtree of a general tree is unordered because the nodes of the general tree can not be ordered according to specific criteria. In a general tree, each node has in-degree(number of parent nodes) one and maximum out-degree(number of child nodes) n.
 
-**Difference between General Tree and [Binary Tree](src/DataStructures/BinaryTree)**
+**Difference between General Tree and [Binary Tree](../BinaryTree)**
 
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/GeneralTree-vs-BinaryTree.png" align=center>
 
