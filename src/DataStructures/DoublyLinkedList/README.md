@@ -4,7 +4,7 @@ Doubly Linked List
 ## Description
 - A Doubly Linked List (DLL) contains an extra pointer, typically called previous pointer, together with next pointer and data which are there in singly linked list.
 
-<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/DoublyLinkedlist.png" align=center>
+<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/DoublyLinkedList.png" align=center>
 
 - In simple words, a doubly linked list consists of nodes where each node contains a data field and a reference(link) to the next and previous node in the list.
 
