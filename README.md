@@ -3,6 +3,7 @@
 ### [Data structures:](src/DataStructures)
 - [Array List](src/DataStructures/ArrayList)
 - [Linked List](src/DataStructures/LinkedList)
+- [Doubly Linked List](src/DataStructures/DoublyLinkedList)
 - [Hash Map](src/DataStructures/HashMap)
 - [Stack and Queue](src/DataStructures/StackAndQueue)
 - [General Tree](src/DataStructures/GeneralTree)
