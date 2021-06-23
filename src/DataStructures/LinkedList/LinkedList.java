@@ -12,6 +12,16 @@ public class LinkedList<T> implements Iterable<T>{
         return head;
     }
 
+    public LinkedList() {
+        this.head = null;
+        this.tail = null;
+        this.listSize = 0;
+    }
+
+    public boolean isEmpty() {
+        return listSize == 0;
+    }
+
     public void addFirst(T element){
         ListNode<T> newNode = new ListNode<T>(element, head);
         head = newNode;
