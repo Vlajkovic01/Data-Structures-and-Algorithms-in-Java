@@ -22,9 +22,9 @@
 - [Linear Search](src/Algorithms/Search/LinearSearch)
 - [Depth-First Search](src/Algorithms/Search/DepthFirstSearch) soon...
 - [Breadth-First Search](src/Algorithms/Search/BreadthFirstSearch) soon...
-
-
+---
 ### Data Structure Operations-Sorting Algorithms Cheat Sheet
 - [PDF file](others/Data Structures and Algorithms.pdf)
 - [Excel file](others/Data Structures and Algorithms.xlsx)
+
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/DSAA.png" align=center>
