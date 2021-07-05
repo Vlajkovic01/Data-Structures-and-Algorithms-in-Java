@@ -25,6 +25,6 @@
 ---
 ### Data Structure Operations-Sorting Algorithms Cheat Sheet
 - [PDF file](others/Data Structures and Algorithms.pdf)
-- [Excel file](others/Data Structures and Algorithms.xlsx)
+- [Excel file](src/Algorithms/Search/LinearSearch)
 
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/DSAA.png" align=center>
