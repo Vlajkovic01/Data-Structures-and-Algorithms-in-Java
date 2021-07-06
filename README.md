@@ -28,3 +28,5 @@
 - [Excel file](others/Data-Structures-and-Algorithms.xlsx)
 
 <img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/DSAA.png" align=center>
+Big O notation graph
+<img src="https://github.com/Vlajkovic01/Data-Structures-and-Algorithms-in-Java/blob/main/others/bigOnotation.jpg" align=center>
